@@ -22,7 +22,7 @@ The combined dashboards within the project:
 
 ---
 
-## **🗄️ Data Sources Found**
+## **🗄️ Data Sources **
 
 CSV file is loaded as a **federated connection** (normal for Tableau Desktop).
 
@@ -164,6 +164,3 @@ Screenshots are included in the repository under `/screenshots/` showing:
 
 * GitHub: [https://github.com/Torajabu](https://github.com/Torajabu)
 * Kaggle: [https://kaggle.com/rajabudeenahamedm](https://kaggle.com/rajabudeenahamedm)
-
----u'd like, I can als
-Just upload the CSV and I’ll generate everything.
